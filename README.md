@@ -35,13 +35,13 @@ This portfolio contains:
 | Lab 04 | Exploratory Data Analysis              | Used the Titanic dataset to perform exploratory data analysis through descriptive statistics and visualizations to identify patterns and relationships within the data.|
 | Lab 05 | Data Preparation & Feature Engineering |Prepared the Titanic dataset for machine learning by handling missing values, encoding categorical variables, and scaling numerical features using standard preprocessing techniques.|
 | Lab 06 | Regression & Classification            |Built and evaluated Linear Regression and Logistic Regression models using the Titanic dataset to understand the differences between predicting continuous values and categorical outcomes.|
-| Lab 07 | Model Evaluation | Evaluation Machine Learning Models            |
-| Lab 08 | Bias Variance Tradeoff | Overfitting, Underfitting, Regularization              |
-| Lab 09 | Ensemble Methods | Completed hands-on machine learning exercise.                |
-| Lab 10 | Unsupervised Learning | Completed hands-on machine learning exercise.           |
-| Lab 11 | Hyperparameter Tuning & Auto ML | Completed hands-on machine learning exercise. |
-| Lab 12 | Ethics, Fairness, & Bias | Ethics, Fairness, & Bias in Machine Learning         |
-| Lab 13 | ML Pipelines | Building Machine Learning Pipelines                              |
+| Lab 07 | Model Evaluation |Evaluated a Logistic Regression model using confusion matrices, precision, recall, F1-score, classification reports, and cross-validation to better understand model performance.|
+| Lab 08 | Bias Variance Tradeoff |            |
+| Lab 09 | Ensemble Methods |                |
+| Lab 10 | Unsupervised Learning |            |
+| Lab 11 | Hyperparameter Tuning & Auto ML |  |
+| Lab 12 | Ethics, Fairness, & Bias |          |
+| Lab 13 | ML Pipelines |                             |
 
 Each lab folder contains:
 
