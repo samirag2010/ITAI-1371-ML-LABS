@@ -37,8 +37,8 @@ This portfolio contains:
 | Lab 06 | Regression & Classification            |Built and evaluated Linear Regression and Logistic Regression models using the Titanic dataset to understand the differences between predicting continuous values and categorical outcomes.|
 | Lab 07 | Model Evaluation |Evaluated a Logistic Regression model using confusion matrices, precision, recall, F1-score, classification reports, and cross-validation to better understand model performance.|
 | Lab 08 | Bias Variance Tradeoff |Explored underfitting, overfitting, and model complexity by comparing multiple models and interpreting learning curves to understand the bias-variance tradeoff.|
-| Lab 09 | Ensemble Methods |                |
-| Lab 10 | Unsupervised Learning |            |
+| Lab 09 | Ensemble Methods |Compared Decision Tree and Random Forest classifiers using the Iris dataset to explore ensemble learning and analyze feature importance.                |
+| Lab 10 | Unsupervised Learning |Applied K-Means clustering and Principal Component Analysis (PCA) to the Iris dataset to identify natural groupings and reduce dimensionality for visualization.            |
 | Lab 11 | Hyperparameter Tuning & Auto ML |  |
 | Lab 12 | Ethics, Fairness, & Bias |          |
 | Lab 13 | ML Pipelines |                             |
