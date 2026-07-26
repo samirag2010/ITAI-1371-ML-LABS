@@ -34,7 +34,7 @@ This portfolio contains:
 | Lab 03 | ML Workflows & Types of Learning       | Explored the complete machine learning workflow while building classification models and comparing supervised, unsupervised, and reinforcement learning approaches.|
 | Lab 04 | Exploratory Data Analysis              | Used the Titanic dataset to perform exploratory data analysis through descriptive statistics and visualizations to identify patterns and relationships within the data.|
 | Lab 05 | Data Preparation & Feature Engineering |Prepared the Titanic dataset for machine learning by handling missing values, encoding categorical variables, and scaling numerical features using standard preprocessing techniques.|
-| Lab 06 | Regression & Classification            |                         |
+| Lab 06 | Regression & Classification            |Built and evaluated Linear Regression and Logistic Regression models using the Titanic dataset to understand the differences between predicting continuous values and categorical outcomes.|
 | Lab 07 | Model Evaluation | Evaluation Machine Learning Models            |
 | Lab 08 | Bias Variance Tradeoff | Overfitting, Underfitting, Regularization              |
 | Lab 09 | Ensemble Methods | Completed hands-on machine learning exercise.                |
