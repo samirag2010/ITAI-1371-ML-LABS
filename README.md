@@ -66,9 +66,15 @@ The final project demonstrates an end-to-end machine learning workflow. Its docu
 * Results and interpretation
 * Limitations and possible improvements
 
-### Presentation-Based Assignment
+## Presentation-Based Assignment
 
-The presentation-based assignment demonstrates my ability to communicate a machine learning topic or project clearly to an audience. Its folder contains the completed presentation, supporting materials, and a README explaining the purpose and main lessons from the assignment.
+This folder showcases my Responsible AI project, **Spartacus Dental AI**. It includes the presentation, supporting materials, and a README describing the AI solution, its intended users, ethical design considerations, and the key lessons learned from developing a responsible AI system.
+
+### Related Project
+
+For the complete application, prototype, documentation, and ongoing development, visit the **Spartacus Dental AI** repository:
+
+🔗 https://github.com/samirag2010/spartacus-dental-ai
 
 ## Technologies and Skills
 
