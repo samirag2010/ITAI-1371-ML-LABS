@@ -39,7 +39,7 @@ This portfolio contains:
 | Lab 08 | Bias Variance Tradeoff |Explored underfitting, overfitting, and model complexity by comparing multiple models and interpreting learning curves to understand the bias-variance tradeoff.|
 | Lab 09 | Ensemble Methods |Compared Decision Tree and Random Forest classifiers using the Iris dataset to explore ensemble learning and analyze feature importance.                |
 | Lab 10 | Unsupervised Learning |Applied K-Means clustering and Principal Component Analysis (PCA) to the Iris dataset to identify natural groupings and reduce dimensionality for visualization.            |
-| Lab 11 | Hyperparameter Tuning & Auto ML |  |
+| Lab 11 | Hyperparameter Tuning & Auto ML |Explored manual hyperparameter tuning, Grid Search, Random Search, cross-validation, and AutoML with AutoGluon to optimize machine learning model performance.  |
 | Lab 12 | Ethics, Fairness, & Bias |          |
 | Lab 13 | ML Pipelines |                             |
 
