@@ -87,7 +87,7 @@ The statistical calculations and visualizations provided an initial understandin
 
 ## Files Included
 
-* `Module_02_Lab_Exercise_1.ipynb` — Completed Google Colab notebook
+* `L02_Tools_of_the_Trade.ipynb` — Completed Google Colab notebook
 * `README.md` — Documentation for this lab
 
 ---
