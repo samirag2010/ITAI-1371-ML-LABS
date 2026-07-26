@@ -29,7 +29,7 @@ This portfolio contains:
 ## Labs
 
 | Lab    | Topic       | Description                                        |
-| ------ | ----------- | -------------------------------------------------- |
+| ------ | ----------- | --------------------------------------------------                                                                                                                                 |
 | Lab 02 | Tools of the Trade                     | Explored the Iris dataset while learning to use Python, Google Colab, Pandas, NumPy, Matplotlib, and Scikit-learn for basic machine learning workflows. |
 | Lab 03 | ML Workflows & Types of Learning       | Explored the complete machine learning workflow while building classification models and comparing supervised, unsupervised, and reinforcement learning approaches.|
 | Lab 04 | Exploratory Data Analysis              | Used the Titanic dataset to perform exploratory data analysis through descriptive statistics and visualizations to identify patterns and relationships within the data.|
