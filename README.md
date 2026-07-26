@@ -1,5 +1,11 @@
 # Samira Gevara | Introduction to Machine Learning Portfolio
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+
+![Google Colab](https://img.shields.io/badge/Google-Colab-yellow)
+
 ## About This Repository
 
 Welcome to my Introduction to Machine Learning course portfolio. My name is **Samira Gevara**, and I am an Applied AI and Robotics student at Houston City College.
@@ -150,6 +156,12 @@ Some notebooks may load datasets directly from public online sources, while othe
 This course helped me understand that machine learning is a complete process rather than a single modeling step. A successful project requires careful data preparation, appropriate model selection, meaningful evaluation metrics, and an honest interpretation of the results.
 
 I also learned that errors and imperfect results are part of the learning process. Troubleshooting code, correcting preprocessing steps, comparing models, and explaining unexpected outcomes helped me develop stronger technical and analytical skills.
+
+## Final Reflection
+
+This repository documents my journey through ITAI 1371: Introduction to Machine Learning. Throughout the course, I progressed from learning the fundamentals of machine learning to building complete workflows that include data preparation, model training, evaluation, hyperparameter tuning, unsupervised learning, responsible AI, and machine learning pipelines.
+
+Each lab built upon the previous one, helping me develop both technical skills and an understanding of how machine learning projects are approached in practice. Beyond writing code, I learned the importance of documentation, reproducibility, ethical AI development, and communicating technical work clearly. These projects represent both my growth as a student and the foundation I will continue building as I pursue a career in artificial intelligence.
 
 ## Academic Purpose
 
