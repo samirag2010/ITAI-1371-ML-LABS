@@ -28,20 +28,20 @@ This portfolio contains:
 
 ## Labs
 
-| Lab    | Topic       | Description                                   |
-| ------ | ----------- | --------------------------------------------- |
-| Lab 01 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 02 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 03 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 04 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 05 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 06 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 07 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 08 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 09 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 10 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 11 | To Be Added | Completed hands-on machine learning exercise. |
-| Lab 12 | To Be Added | Completed hands-on machine learning exercise. |
+| Lab    | Topic       | Description                                        |
+| ------ | ----------- | -------------------------------------------------- |
+| Lab 02 | Tools of the Trade                     | Machine Learning Tools. |
+| Lab 03 | ML Workflows & Types of Learning       |                         |
+| Lab 04 | Exploratory Data Analysis              |                         |
+| Lab 05 | Data Preparation & Feature Engineering |                         |
+| Lab 06 | Regression & Classification            |                         |
+| Lab 07 | Model Evaluation | Evaluation Machine Learning Models            |
+| Lab 08 | Bias Variance Tradeoff | Overfitting, Underfitting, Regularization              |
+| Lab 09 | Ensemble Methods | Completed hands-on machine learning exercise.                |
+| Lab 10 | Unsupervised Learning | Completed hands-on machine learning exercise.           |
+| Lab 11 | Hyperparameter Tuning & Auto ML | Completed hands-on machine learning exercise. |
+| Lab 12 | Ethics, Fairness, & Bias | Ethics, Fairness, & Bias in Machine Learning         |
+| Lab 13 | ML Pipelines | Building Machine Learning Pipelines                              |
 
 Each lab folder contains:
 
@@ -105,7 +105,6 @@ Throughout the course, I developed experience with:
 Samira-Gevara-Intro-to-Machine-Learning/
 ├── README.md
 ├── Labs/
-│   ├── Lab01/
 │   ├── Lab02/
 │   ├── Lab03/
 │   ├── Lab04/
@@ -116,10 +115,11 @@ Samira-Gevara-Intro-to-Machine-Learning/
 │   ├── Lab09/
 │   ├── Lab10/
 │   ├── Lab11/
-│   └── Lab12/
+│   ├── Lab12/
+│   └── Lab13/
 └── Assignments/
     ├── Final-Project/
-    └── Presentation-Assignment/
+    └── ResponsibleAI-Assignment/
 ```
 
 Each folder contains its own README and the files required for that lab or assignment.
