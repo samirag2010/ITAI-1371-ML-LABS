@@ -97,10 +97,8 @@ Beyond the technical aspects, I also strengthened my ability to document my work
 
 ## Files Included
 
-- Final Project Notebook
+- Final Project Notebook FP_AirlineTweets_SamiraGevara
 - README.md
-- Dataset (if included)
-- Supporting visualizations (if applicable)
 
 ---
 
