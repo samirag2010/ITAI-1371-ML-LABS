@@ -173,3 +173,7 @@ This repository was created as an educational portfolio for my Introduction to M
 Applied AI and Robotics Student
 Houston City College
 
+## License
+
+This repository was created for educational purposes as part of ITAI 1371: Introduction to Machine Learning at Houston City College.
+
