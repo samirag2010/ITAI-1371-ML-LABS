@@ -130,7 +130,7 @@ Samira-Gevara-Intro-to-Machine-Learning/
 │   ├── Lab12/
 │   └── Lab13/
 └── Assignments/
-    ├── Final-Project/
+    ├── Sentiment-Analysis-Final-Project/
     └── ResponsibleAI-Assignment/
 ```
 
