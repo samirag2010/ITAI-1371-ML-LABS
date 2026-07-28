@@ -120,7 +120,7 @@ This presentation is based on **Spartacus Dental AI**, an ongoing portfolio proj
 
 **GitHub Repository:**
 
-https://github.com/samirag2010/spartacus-dental-ai
+🔗 [Spartacus Dental AI Repository](https://github.com/samirag2010/spartacus-dental-ai)
 
 ---
 
