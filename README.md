@@ -60,7 +60,7 @@ Each lab folder contains:
 
 ## Assignments
 
-### Final Project
+###  Sentiment-Analysis-Final-Project
 
 The final project demonstrates an end-to-end machine learning workflow. Its documentation explains:
 
