@@ -60,7 +60,7 @@ Each lab folder contains:
 
 ## Assignments
 
-###  Sentiment-Analysis-Final-Project
+###  Sentiment-Analysis-Final-Project - FP_AirlineTweets_SamiraGevara
 
 The final project demonstrates an end-to-end machine learning workflow. Its documentation explains:
 
@@ -72,7 +72,7 @@ The final project demonstrates an end-to-end machine learning workflow. Its docu
 * Results and interpretation
 * Limitations and possible improvements
 
-## Presentation-Based Assignment
+## Presentation-Based Assignment - ResponsibleAI-Assignment
 
 This folder showcases my Responsible AI project, **Spartacus Dental AI**. It includes the presentation, supporting materials, and a README describing the AI solution, its intended users, ethical design considerations, and the key lessons learned from developing a responsible AI system.
 
@@ -80,7 +80,7 @@ This folder showcases my Responsible AI project, **Spartacus Dental AI**. It inc
 
 For the complete application, prototype, documentation, and ongoing development, visit the **Spartacus Dental AI** repository:
 
-🔗 https://github.com/samirag2010/spartacus-dental-ai
+🔗 [Spartacus Dental AI Repository](https://github.com/samirag2010/spartacus-dental-ai)
 
 ## Technologies and Skills
 
